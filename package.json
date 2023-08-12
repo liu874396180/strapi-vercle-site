@@ -9,11 +9,11 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.7.0",
-    "@strapi/plugin-users-permissions": "4.7.0",
     "@strapi/plugin-i18n": "4.7.0",
+    "@strapi/plugin-users-permissions": "4.7.0",
+    "@strapi/strapi": "4.7.0",
+    "@vercel/node": "^2.15.9",
     "mysql": "2.18.1"
   },
   "author": {
