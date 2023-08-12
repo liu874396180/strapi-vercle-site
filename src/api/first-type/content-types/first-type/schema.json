@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "first_types",
+  "info": {
+    "singularName": "first-type",
+    "pluralName": "first-types",
+    "displayName": "first-type"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "huashu": {
+      "type": "string"
+    }
+  }
+}

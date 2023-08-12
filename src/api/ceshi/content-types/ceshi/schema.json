@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "ceshis",
+  "info": {
+    "singularName": "ceshi",
+    "pluralName": "ceshis",
+    "displayName": "ceshi"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ceshidanyi": {
+      "type": "string"
+    }
+  }
+}
